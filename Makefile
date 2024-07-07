@@ -1,5 +1,5 @@
 
-DOCKER_IMAGE_NAME := rmysql-audit-compiler
+DOCKER_IMAGE_NAME := mysql-audit-compiler
 DOCKER_IMAGE_TAG  := latest
 
 ####################################################################
