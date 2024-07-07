@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This project is a demon for auditing mysql traffic, It has not been rigorously tested.
+This project is a demo for auditing mysql traffic, It has not been rigorously tested.
 The analysis of the mysql protocol is based on [MySQL Source Code Documentation
 ](https://dev.mysql.com/doc/dev/mysql-server/latest/) not souce code, so the correctness cannot be guaranteed.
 
@@ -29,6 +29,7 @@ It captures traffic(by [libtins](https://github.com/mfontanini/libtins)) from po
 
 > support zlib and zstd compression
 
+It also support PostgreSQL and Redis.
 
 ## Usage
 
