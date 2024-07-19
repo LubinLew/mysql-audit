@@ -9,7 +9,6 @@ The analysis of the mysql protocol is based on [MySQL Source Code Documentation
 If you want to perform MySQL auditing in a production environment, you can try the following MySQL plugin:
 
 - https://github.com/trellix-enterprise/mysql-audit
-
 - https://github.com/aws/audit-plugin-for-mysql
 
 The purpose of this project is to write a statically linked program that can run on all x64 Linux platforms, so the program is compiled using clang in alpine docker.
